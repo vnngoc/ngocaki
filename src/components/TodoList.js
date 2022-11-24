@@ -42,7 +42,7 @@ function TodoList() {
 
   return (
     <>
-      <h1 className='Heading' >TO DO LIST</h1>
+      <h1 className='Heading' >HÉ LU THẢO NHÓ</h1>
       <TodoForm onSubmit={addTodo} />
       <Todo
         todos={todos}
